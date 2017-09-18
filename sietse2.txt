@@ -1,3 +1,5 @@
 dit is bestand 2
 
 versie 0.1
+
+hier is extra tekst bij gekomen
